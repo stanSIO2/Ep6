@@ -1,16 +1,3 @@
-# projet_e5
+Ci-dessous voici les librairies utiles pour le bon fonctionnement de l'application mobile :
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+{ "name": "projet_e5", "version": "1.0.0", "description": "Un nouveau projet Flutter.", "main": "index.js", "directories": { "lib": "lib", "test": "test" }, "scripts": { "test": "echo "Erreur : aucun test spécifié" && exit 1" }, "keywords": [], "author": "", "license": "ISC", "dependencies": { "body-parser": "^1.20.3", "express": "^4.21.2", "mysql2": "^3.12.0" } }
